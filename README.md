@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cagri Ozturk</h1>
-<h3 align="center">Hello there, I am a developer with extensive experience in HTML, CSS, Python, JavaScript, and Node.js.</h3>
+<h3 >Hello there, I am a developer with extensive experience in HTML, CSS, Python, JavaScript, and Node.js.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
